@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "783258646106",
+    "firebase_url": "https://grabike-39b8b.firebaseio.com",
+    "project_id": "grabike-39b8b",
+    "storage_bucket": "grabike-39b8b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:783258646106:android:a63c26449edd1bcd",
+        "android_client_info": {
+          "package_name": "com.example.sow2.googleauthentication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "783258646106-m9h5207aicqtp27ohfj048lvrv3b04aa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sow2.googleauthentication",
+            "certificate_hash": "7362d3c5c7e6e057c73a9c8253a24ae1e8d2bf64"
+          }
+        },
+        {
+          "client_id": "783258646106-crmua5e4lhfpob6aqrt6297bcc1c82sp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1E7pSpsSPFUboZWkAvPw-0saSMxwrMwk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "783258646106-crmua5e4lhfpob6aqrt6297bcc1c82sp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
